@@ -1,5 +1,5 @@
 # drill-prompt
 
-Mock interviewer for ChatGPT: pick the interview type, a question (or paste your own) and the level, then copy the prompt. https://bosthecoder.github.io/drill-prompt/
+Moved to https://buildwithbos.com/learn/mock-interviewer. This page only redirects there, so old links keep working.
 
-Generated, do not edit: `drill.py page .` (ai-toolkit `skills/drill`), from `interviewer.md` and the Full run questions in the Notion question bank.
+The mock interviewer now lives in the buildwithbos.com repo; its data comes from `drill.py page` (ai-toolkit `skills/drill`).
